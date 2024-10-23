@@ -4,8 +4,8 @@ This is an implementation code for our paper entitled: Real-time Workflow Schedu
 
 ## Requirements
 ```
-$ pip install torch==1.12.0
+pip install torch==1.12.0
 ```
 
 ## Configuration
-Hyperparameters configuration file: `./`
+Hyperparameters configuration file: `./Parameter.py`
