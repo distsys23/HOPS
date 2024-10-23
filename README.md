@@ -2,6 +2,10 @@
 
 This is an implementation code for our paper entitled: Real-time Workflow Scheduling in Hybrid Clouds with Privacy and Security Constraints: A Deep Reinforcement Learning Approach
 
+## Framework and DRL-based process
+![image](https://github.com/distsys23/img/blob/main/HOPS/frame.png)
+![image](https://github.com/distsys23/img/blob/main/HOPS/DRL-based_process.png)
+
 ## Requirements
 ```
 pip install torch==1.12.0
@@ -20,8 +24,7 @@ Directly run the `main.py`, the approach will run with the default settings.
 
 ## Data
 Workflows data with `.xml` format located in folder [XML_Scientific_Workflow](https://github.com/distsys23/HOPS/tree/main/XML_Scientific_Workflow), including CyberShake, Epigenomics, LIGO, Montage, and SIPHT.
-![image](https://github.com/distsys23/img/blob/main/scientific%20workflows.png)
-
+![image](https://github.com/distsys23/img/blob/main/HOPS/scientific%20workflows.png)
 
 ## Code Structure
 - `Comparison_Algorithms`: comparison algorithms files.
