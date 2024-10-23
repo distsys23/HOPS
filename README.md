@@ -20,6 +20,8 @@ Directly run the `main.py`, the approach will run with the default settings.
 
 ## Data
 Workflows data with `.xml` format located in folder [XML_Scientific_Workflow](https://github.com/distsys23/HOPS/tree/main/XML_Scientific_Workflow), including CyberShake, Epigenomics, LIGO, Montage, and SIPHT.
+![image](https://github.com/distsys23/img/blob/main/scientific%20workflows.png)
+
 
 ## Code Structure
 - `Comparison_Algorithms`: comparison algorithms files.
