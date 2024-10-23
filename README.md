@@ -8,7 +8,8 @@ pip install torch==1.12.0
 ```
 
 ## Configuration
-Hyperparameters configuration file: `./Parameter.py`
+- Hyperparameters configuration file: `./Parameter.py`
+- Comparison algorithms configuration file : `./Comparison_Algorithms/`
 
 ## Quick Start
 ```
@@ -20,3 +21,5 @@ Directly run the `main.py`, the approach will run with the default settings.
 ## Data
 Workflows data with .xml format located in folder [XML_Scientific_Workflow](https://github.com/distsys23/HOPS/tree/main/XML_Scientific_Workflow), including CyberShake, Epigenomics, LIGO, Montage, and SIPHT.
 
+## Code Structure
+- `main.py`: main function.
