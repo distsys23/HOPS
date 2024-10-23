@@ -3,10 +3,8 @@
 This is an implementation code for our paper entitled: Real-time Workflow Scheduling in Hybrid Clouds with Privacy and Security Constraints: A Deep Reinforcement Learning Approach
 
 ## Framework and DRL-based process
-<div style="text-align: center;">
-  <img src="https://github.com/distsys23/img/blob/main/HOPS/frame.png" alt="HOPS framework" style="width:50%;">
-</div>
-  
+<img src="https://github.com/distsys23/img/blob/main/HOPS/frame.png" alt="HOPS framework" style="width:50%;display: block; margin: 0 auto;">
+
 <img src="https://github.com/distsys23/img/blob/main/HOPS/DRL-based_process.png" alt="DRL-based process" style="width:50%;">
 
 ## Requirements
