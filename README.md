@@ -36,3 +36,18 @@ Workflows data with `.xml` format located in folder [XML_Scientific_Workflow](ht
 - `Parameter.py`: hyperparameters configuration.
 - `Environment.py`: environment file for workflow scheduling in hybrid clouds.
 - `DQN_model.py`: DQN model for task allocation phase.
+
+## Citation
+This work is accepted by Expert Systems with Applications.
+
+```bash
+@article{he2025real,
+  title={Real-time workflow scheduling in hybrid clouds with privacy and security constraints: A deep reinforcement learning approach},
+  author={He, Haoyang and Gu, Yan and Hu, Yang and Fang, Fang and Ning, Xin and Chen, Xiaomin and Cheng, Long},
+  journal={Expert Systems with Applications},
+  volume={278},
+  pages={127376},
+  year={2025},
+  publisher={Elsevier}
+}
+```
